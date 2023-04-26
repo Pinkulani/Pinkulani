@@ -6,4 +6,3 @@ I'm a hobbyist electrical engineer. I'm learning many different things which all
 - 🌱 I’m currently learning **Java**
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Code runs better when wearing programming socks
--->
