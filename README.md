@@ -1,6 +1,6 @@
 ### Howdy 🥕
 
-## I'm a hobbyist electrical engineer. I'm learning many different things which all involve Computers. ##
+## I'm a doing this all for fun. ##
 
 - 🔭 I’m currently working on **Pinkulani/AutoMicroGarden**
 - 🌱 I’m currently learning **C++**
