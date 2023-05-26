@@ -1,6 +1,6 @@
 ### Howdy 🥕
 
-## I'm a doing this all for fun. ##
+## I'm doing this all for fun. ##
 
 - 🔭 I’m currently working on **Pinkulani/AutoMicroGarden**
 - 🌱 I’m currently learning **C++ and Swift**
