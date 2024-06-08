@@ -1,2 +1,19 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Pinkulani/Pinkulani/blob/main/Teto.png?raw=true');]{x0000}$}
+<div align="center">
+     <p>I'm not very good at programming</p>
+     <p>(⁠〒⁠﹏⁠〒⁠)</p>
+     <p>🥕</p>  
+ </div>
+ 
+ <h1></h1>
+
+ (\_(\ <br>
+ (=' :') ~♥🥕 <br>
+ (,(')(')
+ 
+ <h1></h1>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkulani&theme=radical)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Pinkulani&theme=tokyonight&exclude_days=Sun%2CFri%2CSat&fire=e51471)](https://git.io/streak-stats)
+
+ <h1></h1>
+ </body>
